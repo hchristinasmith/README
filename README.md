@@ -6,7 +6,7 @@ Welcome to my GitHub Profile!
 
 # About Me
 
-I’m a software developer who recently completed full-time training at Dev Academy (Autumn/Winter 2025 cohort). Before diving into coding, I was deeply interested in soil microbiology and understanding it for soil regeneration — and I’m excited to blend science and technology to explore new possibilities at this intersection. I also love collaborating in start up environments and small teams, where creativity, agility and close teamwork bring ideas to life. 
+I’m a software developer who recently completed full-time training at Dev Academy (Autumn/Winter 2025 cohort). Before diving into coding, I was deeply interested in soil microbiology and understanding it for soil regeneration — and I’m excited to blend science and technology to explore new possibilities at this intersection. I also love collaborating in start up environments and small teams, where creativity, agility and close teamwork bring ideas to life. Transitioning into tech has been such a fun experience. Starting from zero just 9 weeks ago, I’ve been amazed by what myself and the other students have been able to build in such a short amount of time. It’s given me the confidence to dive into this industry and immerse myself in some cool tech.
 
 # Skills & Technologies
 **JavaScript / TypeScript**
