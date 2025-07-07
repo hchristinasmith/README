@@ -25,7 +25,8 @@ Transitioning into tech has been such a fun experience. Starting from zero just 
 - HTML5 & CSS3
 - JavaScript (ES6+)
 - React 
-- Tailwind CSS (sometimes)
+- Tailwind CSS/Shadcn UI
+  
 **Backend**  
 - Node.js
 - Express.js
