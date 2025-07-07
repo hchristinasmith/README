@@ -38,32 +38,32 @@ Transitioning into tech has been such a fun experience. Starting from zero just 
 - Jest
 - Supertest
 
-### 🛠️ Development Tools & Practices
+### Development Tools & Practices
 - Git & GitHub
 - Command Line (CLI)
 - VS Code
 - ESLint / Prettier
 
-### 🧠 Soft Skills & Agile Practices
+### Soft Skills & Agile Practices
 - Agile workflows – Standups, retros, and sprints  
 - Pair programming – Collaborative coding techniques  
 - Code reviews – Feedback-driven development  
 - Growth mindset – Focused on continuous learning and reflection  
 
-### 🧪 Testing & Debugging
+### Testing & Debugging
 - Unit and integration testing  
 - Debugging with DevTools and Node.js  
 
-### 🔐 Security & Deployment
+### Security & Deployment
 - `.env` environment variables  
 - Basic auth/authorization practices  
 - Deployment with:
   - Render
   - Docker (intro) – Light touch on containerisation  
 
-### 🧱 Project Work
+### Project Work
 - Capstone project (group-based full-stack app) - flatt.ie
-- Personal portfolio project - divvy
+- Personal project - divvy
 - Agile team projects using Trello & GitHub Projects  
 
 ---
