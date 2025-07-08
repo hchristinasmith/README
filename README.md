@@ -3,7 +3,7 @@
 Welcome to my GitHub Profile!
 
 ## About Me
-I’m a software developer with a background in soil microbiology, and I’ve just completed an intensive full-time training at Dev Academy (Autumn/Winter 2025 cohort). My journey into tech grew out of a desire to understand and regenerate soil ecosystems. I spent years fascinated by the incredible complexity and potential that the soil holds, and how microscopic life shapes the health of our land.  But I realised I wanted to do more than analyse. I wanted to build creative, practical tools that could actually drive change.
+I’m a software developer with a background in soil microbiology, and I’ve just completed an intensive full-time training at Dev Academy (Autumn/Winter 2025 cohort). My journey into tech grew out of a desire to understand and regenerate soil ecosystems. I spent years fascinated by the incredible complexity and potential that the soil holds, and how microscopic life shapes the health of our land.  But I realised I wanted to do more than read research papers. I wanted to build creative, practical tools that could actually drive change.
 
 While my background is in soil science, I’m excited to apply my skills more broadly. I’m open to working on a wide range of projects.
 
