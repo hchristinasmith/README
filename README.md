@@ -7,7 +7,7 @@ I’m a software developer with a background in soil microbiology, and I’ve ju
 
 While my background is in soil science, I’m excited to apply my skills more broadly. I’m open to working on a wide range of projects.
 
-During my time at Dev Academy, I haved rediscovered my love for collaborating with others ant thinking creatively. I especially thrive in start-up environments and small teams, where creativity, agility, and close teamwork bring ideas to life. 
+During my time at Dev Academy, I have rediscovered my love for collaborating with others and thinking creatively. I especially thrive in start-up environments and small teams, where creativity, agility, and close teamwork bring ideas to life. 
 
 Transitioning into tech has been such a fun experience. Starting from zero just 9 weeks ago, I’ve been amazed by what myself and the other students have been able to build in such a short amount of time. It’s given me the confidence to dive into this industry and immerse myself in some cool tech. 
 
