@@ -67,7 +67,7 @@ Transitioning into tech has been such a fun experience. Starting from zero just 
 
 ### Project Work
 - Capstone project (group-based full-stack app) - [flatt.ie](https://github.com/hchristinasmith/flatt.ie)
-- Personal project - [divvy](https://github.com/hchristinasmith/divvy-), [bulkform](https://github.com/hchristinasmith/bulkform)
+- Personal project - [divvy](https://github.com/hchristinasmith/divvy-), [bulkform](https://github.com/hchristinasmith/bulkform), [AI-Spy](https://github.com/hchristinasmith/AI-Spy)
 - Agile team projects using Trello & GitHub Projects  
 
 ---
